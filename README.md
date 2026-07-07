@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋 I'm Pranava Chapala
 
-<!--
-**Adithyaa-06/Adithyaa-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend AI Engineering Student
 
-Here are some ideas to get you started:
+I build production-ready AI systems using LLMs, FastAPI, Retrieval-Augmented Generation (RAG), and modern backend engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Focus
+
+- Backend AI Engineering
+- LLM Applications
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- FastAPI
+- PostgreSQL
+
+---
+
+## Currently Building
+
+- Production AI Backend Projects
+- AI Agents
+- RAG Systems
+- FastAPI APIs
+- Evaluation Frameworks
+
+---
+
+## Learning Journey
+
+I believe the best way to learn AI engineering is by building.
+
+This GitHub documents my journey from student to production AI engineer through real projects.
+
+---
+
+## Connect
+
+LinkedIn:
+Email:
+Portfolio (coming soon)
