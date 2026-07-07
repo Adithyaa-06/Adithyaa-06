@@ -1,42 +1,18 @@
-# Hi 👋 I'm Pranava Chapala
+<h1 align="center">Hi 👋, I'm Pranava Adithyaa Chapala</h1>
 
+<h3 align="center">
 Backend AI Engineering Student
+</h3>
 
-I build production-ready AI systems using LLMs, FastAPI, Retrieval-Augmented Generation (RAG), and modern backend engineering.
+<p align="center">
+Building production-ready AI systems with LLMs, AI Agents, and FastAPI.
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Backend+AI+Engineer;Building+LLM+Applications;AI+Agents+%7C+FastAPI+%7C+RAG;Always+Learning+Always+Building" />
+</p>
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,github,vscode,linux"/>
 
-## Current Focus
-
-- Backend AI Engineering
-- LLM Applications
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-- FastAPI
-- PostgreSQL
-
----
-
-## Currently Building
-
-- Production AI Backend Projects
-- AI Agents
-- RAG Systems
-- FastAPI APIs
-- Evaluation Frameworks
-
----
-
-## Learning Journey
-
-I believe the best way to learn AI engineering is by building.
-
-This GitHub documents my journey from student to production AI engineer through real projects.
-
----
-
-## Connect
-
-LinkedIn:
-Email:
-Portfolio (coming soon)
+</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Adithyaa-06&show_icons=true&theme=tokyonight"/>
